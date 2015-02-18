@@ -1,5 +1,5 @@
 # cree.py
-another metaploit like pentesting platform 
+another metasploit like pentesting platform 
 
 # Development Status
 
